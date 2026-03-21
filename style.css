@@ -4,9 +4,9 @@
 
 /* ── TOKENS ── */
 :root {
-  --navy:       #2C3E6B;
-  --navy-dark:  #1a2545;
-  --navy-light: #3d5488;
+  --navy:       #592f32;
+  --navy-dark:  #141414;
+  --navy-light: #5b3e33;
   --cream:      #F5F2EC;
   --warm-white: #FAF9F6;
   --ink:        #1a1a1a;
@@ -247,7 +247,7 @@ ul { list-style: none; }
 }
 
 #home::before {
-  content: 'BKW';
+  content: '';
   position: absolute;
   right: -40px;
   bottom: -60px;
